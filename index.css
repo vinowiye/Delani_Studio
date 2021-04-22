@@ -7,10 +7,14 @@
     color: white;
     }
 
-    .fa:hover {
-        opacity: 0.7;
+.fa:hover {
+    opacity: 0.7;
     }
     
-    .fa-facebook {
-      background: #3B5998;
+.fa-facebook {
+    background: #3B5998;
     }
+
+    .fa-twitter {
+        background: #55ACEE;
+      }

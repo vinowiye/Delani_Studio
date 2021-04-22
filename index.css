@@ -1,3 +1,9 @@
+/*landind page*/
+.landingpage{
+    background-image: url("photos/h_img.jpg");
+    background-size: cover;
+    color: white;
+}
 /*footer*/
 .footer{
     text-align: center;

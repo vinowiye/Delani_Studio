@@ -4,6 +4,12 @@
     background-size: cover;
     color: white;
 }
+/*services section*/
+.services{
+    background-image: url(photos/s_image.jpg);
+    background-size: cover;
+    color: white;
+}
 /*footer*/
 .footer{
     text-align: center;

@@ -44,4 +44,21 @@
 .fa-behance{
     background-color:rgb(17, 154, 212);
 }
+.mouse{
+    padding-top : 20px;
+    margin-top: 20px;
+    padding-bottom: 20px; 
+  }
+
+  .mouse {
+    animation: bounce 2s infinite;
+  }
+  @keyframes bounce {
+    40% {
+      transform: translateY(-50px);
+    }
+    60% {
+      transform: translateY(-30px);
+    }
+  }
     
